@@ -21,7 +21,7 @@ html,body {
 .left {
     height: 100%;
     width: 50%;
-    background-color: rgb(10, 10, 122);
+    background-color: rgb( 10, 10, 122);
     color: white;
     display: flex;
     flex-direction: column;
